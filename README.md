@@ -337,13 +337,13 @@ In particular, the dramatic decline in September 2018 should be validated agains
 ```text
 Olist-SQL-Analysis/
 │
-├── SQL1.txt
-├── SQL2.txt
-├── SQL3.txt
-├── SQL4.txt
-├── SQL5.txt
-├── SQL6.txt
-├── SQL8.txt
+├── SQL1.sql
+├── SQL2.sql
+├── SQL3.sql
+├── SQL4.sql
+├── SQL5.sql
+├── SQL6.sql
+├── SQL8.sql
 │
 ├── Result1.csv
 ├── Result2.csv
